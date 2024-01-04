@@ -1,7 +1,5 @@
-=========================================================================================
-==========================       PLAYLIST INI GRATIS       ==============================
-==========================     JANGAN DIPERJUALBELIKAN     ==============================
-=========================================================================================
+PLAYLIST INI GRATIS JANGAN DIPERJUALBELIKAN!!
+PEMAKAIAN PRIBADI SAJA.
 
 
 
@@ -381,25 +379,20 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 ===== Natz Lokal =====
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="Natz Lokal",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
+https://s.id/indosiarHD_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="Natz Lokal",Indosiar 2
 http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/10
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="Natz Lokal",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8?app_type=web&userid=lite&chname=SCTV
+https://s.id/sctvHD_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="Natz Lokal",SCTV 2
 http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/11
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="Natz Lokal",Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8?app_type=web&userid=lite&chname=moji
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://s.id/1YseN
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="Natz Lokal",Moji 2
 http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/22
@@ -489,18 +482,33 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/inde
 ===== Natz Movies =====
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cinemax.png" group-title="Natz Movies",Cinemax
-http://tvlive.my.id:25461/ab/ab/424
+https://s.id/cinemaxHD_shareext-ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbo.png" group-title="Natz Movies",HBO
-http://tvlive.my.id:25461/ab/ab/412
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbo.png" group-title="Natz Movies",HBO
+https://s.id/hboHD_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbohits.png" group-title="Natz Movies",HBO Hits
-http://tvlive.my.id:25461/ab/ab/413
+https://s.id/hbohits_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbofamily.png" group-title="Natz Movies",HBO Family
-http://tvlive.my.id:25461/ab/ab/415
+https://s.id/hbofam_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbosignature.png" group-title="Natz Movies",HBO Signature
+https://s.id/hbosigHD_shareext-ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cinemax.png" group-title="Natz Movies",Cinemax 2
+http://tvlive.my.id:25461/ab/ab/424
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbo.png" group-title="Natz Movies",HBO 2
+http://tvlive.my.id:25461/ab/ab/412
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbohits.png" group-title="Natz Movies",HBO Hits 2
+http://tvlive.my.id:25461/ab/ab/413
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbofamily.png" group-title="Natz Movies",HBO Family 2
+http://tvlive.my.id:25461/ab/ab/415
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbosignature.png" group-title="Natz Movies",HBO Signature 2
 http://tvlive.my.id:25461/ab/ab/414
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/axn.png" group-title="Natz Movies",AXN
