@@ -270,6 +270,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/bein1.png" group-title="Sport Mix",BeIN 1 Thailand
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/bein2.png" group-title="Sport Mix",BeIN 2 Thailand
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
 #EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/bein1.png" group-title="Sport Mix",BeIN 1 Astro (VPN)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
