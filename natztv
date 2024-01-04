@@ -484,7 +484,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/inde
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cinemax.png" group-title="Natz Movies",Cinemax
 https://s.id/cinemaxHD_shareext-ts
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbo.png" group-title="Natz Movies",HBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbo.png" group-title="Natz Movies",HBO
 https://s.id/hboHD_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbohits.png" group-title="Natz Movies",HBO Hits
