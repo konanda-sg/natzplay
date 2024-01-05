@@ -165,10 +165,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/bein1.png" group-title="Sport Mix",BeIN 1 Thailand
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/bein1.png" group-title="Sport Mix",BeIN 1 TrueVisions
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/bein2.png" group-title="Sport Mix",BeIN 2 Thailand
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/bein2.png" group-title="Sport Mix",BeIN 2 TrueVisions
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/bein1.png" group-title="Sport Mix",BeIN 1 Astro (VPN)
@@ -385,22 +385,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 ===== Natz Lokal =====
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="Natz Lokal",Indosiar
-https://s.id/indosiarHD_shareext-ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="Natz Lokal",Indosiar 2
 http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/10
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="Natz Lokal",SCTV
-https://s.id/sctvHD_shareext-ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="Natz Lokal",SCTV 2
 http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/11
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="Natz Lokal",Moji
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://s.id/1YseN
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="Natz Lokal",Moji 2
 http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/22
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cnn.png" group-title="Natz Lokal",CNN Indonesia
@@ -585,10 +575,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mp
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 
 ===== Natz Kids =====
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/aniplus.png" group-title="Natz Kids",AniPlus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://rr.dens.tv:80/h/h114/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/animax.png" group-title="Natz Kids",Animax
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
