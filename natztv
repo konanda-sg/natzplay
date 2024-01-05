@@ -478,16 +478,16 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/inde
 ===== Natz Movies =====
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cinemax.png" group-title="Natz Movies",Cinemax 
-https://tvlive.my.id:25461/ab/ab/424
+http://tvlive.my.id:25461/ab/ab/424
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbo.png" group-title="Natz Movies",HBO 
-https://tvlive.my.id:25461/ab/ab/412
+http://tvlive.my.id:25461/ab/ab/412
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbohits.png" group-title="Natz Movies",HBO Hits 
-https://tvlive.my.id:25461/ab/ab/413
+http://tvlive.my.id:25461/ab/ab/413
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbofamily.png" group-title="Natz Movies",HBO Family 
-https://tvlive.my.id:25461/ab/ab/415
+http://tvlive.my.id:25461/ab/ab/415
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbosignature.png" group-title="Natz Movies",HBO Signature 
 http://tvlive.my.id:25461/ab/ab/414
