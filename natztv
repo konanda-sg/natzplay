@@ -477,34 +477,19 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/inde
 
 ===== Natz Movies =====
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cinemax.png" group-title="Natz Movies",Cinemax
-https://s.id/cinemaxHD_shareext-ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbo.png" group-title="Natz Movies",HBO
-https://s.id/hboHD_shareext-ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbohits.png" group-title="Natz Movies",HBO Hits
-https://s.id/hbohits_shareext-ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbofamily.png" group-title="Natz Movies",HBO Family
-https://s.id/hbofam_shareext-ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbosignature.png" group-title="Natz Movies",HBO Signature
-https://s.id/hbosigHD_shareext-ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cinemax.png" group-title="Natz Movies",Cinemax 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cinemax.png" group-title="Natz Movies",Cinemax 
 http://tvlive.my.id:25461/ab/ab/424
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbo.png" group-title="Natz Movies",HBO 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbo.png" group-title="Natz Movies",HBO 
 http://tvlive.my.id:25461/ab/ab/412
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbohits.png" group-title="Natz Movies",HBO Hits 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbohits.png" group-title="Natz Movies",HBO Hits 
 http://tvlive.my.id:25461/ab/ab/413
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbofamily.png" group-title="Natz Movies",HBO Family 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbofamily.png" group-title="Natz Movies",HBO Family 
 http://tvlive.my.id:25461/ab/ab/415
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbosignature.png" group-title="Natz Movies",HBO Signature 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbosignature.png" group-title="Natz Movies",HBO Signature 
 http://tvlive.my.id:25461/ab/ab/414
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/axn.png" group-title="Natz Movies",AXN
