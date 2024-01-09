@@ -384,25 +384,88 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 
 ===== Natz Lokal =====
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="Natz Lokal",Indosiar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="Natz Lokal",Indosiar HD
 https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73617
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="Natz Lokal",SCTV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="Natz Lokal",SCTV HD
 https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73607
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="Natz Lokal",Moji
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 0
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73600
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 1
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73601
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 2
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73602
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 3
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73603
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 4
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73604
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 5
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73605
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 6
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73606
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 7
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73607
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 8
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73608
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 9
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73609
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 10
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73610
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 11
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73611
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 12
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73612
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 13
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73613
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 14
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73614
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 15
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73615
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 16
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73616
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 17
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73617
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 18
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73618
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 19
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73619
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TEST",TEST 20
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73620
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="Natz Lokal",Moji Indihome
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="Natz Lokal", INDOSIAR DENS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="Natz Lokal", Indosiar Dens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="Natz Lokal", SCTV DENS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="Natz Lokal", SCTV Dens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="Natz Lokal", MOJI DENS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="Natz Lokal", Moji Dens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 
