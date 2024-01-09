@@ -1,12 +1,7 @@
 PLAYLIST INI GRATIS JANGAN DIPERJUALBELIKAN!!
 HANYA UNTUK PEMAKAIAN PRIBADI SAJA.
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="Natz Lokal",SCTV 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c467a737445684c4974426f556c7579:4547737a78565152376f4e3861636541
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
 
 ===== LIVE EVENT =====
 
@@ -522,6 +517,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 
 ===== Natz Lokal =====
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="Natz Lokal",SCTV 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c467a737445684c4974426f556c7579:4547737a78565152376f4e3861636541
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
 #EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="Natz Lokal",Indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -529,7 +529,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.pt-mencar-cinta-sejati.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="Natz Lokal",SCTV
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="Natz Lokal",SCTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.pt-mencar-cinta-sejati.workers.dev/
