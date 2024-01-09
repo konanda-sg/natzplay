@@ -398,7 +398,9 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="Natz Lokal",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/sctv/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cnn.png" group-title="Natz Lokal",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
