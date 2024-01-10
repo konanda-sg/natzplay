@@ -18,7 +18,7 @@ https://playlist-coffee.my.id/oxy/transtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="OXYGEN",TRANS 7 Oxygen
 https://playlist-coffee.my.id/oxy/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="OXYGEN",NET Oxygen
-https://playlist-coffee.my.id/oxy/nettv.m3u8
+https://playlist-coffee.my.id/oxy/net..m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="OXYGEN",Metro Oxygen
 https://playlist-coffee.my.id/oxy/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="OXYGEN",Kompas Oxygen
@@ -27,12 +27,6 @@ https://playlist-coffee.my.id/oxy/kompastv.m3u8
 https://playlist-coffee.my.id/oxy/antv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="OXYGEN",iNews Oxygen
 https://playlist-coffee.my.id/oxy/inews.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="OXYGEN",15
-https://playlist-coffee.my.id/oxy/kbskorea.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="OXYGEN",14
-https://playlist-coffee.my.id/oxy/nhkworld.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="OXYGEN",16
-https://playlist-coffee.my.id/oxy/cnbc.m3u8
 
 ===== LIVE EVENT =====
 
