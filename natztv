@@ -408,8 +408,6 @@ https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73607
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="Natz Lokal",Moji Indihome
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-https://cdn08jtedge.indihometv.com/dassdvr/134/sctv/manifest.mpd
-https://cdn08jtedge.indihometv.com/dassdvr/134/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="Natz Lokal", Indosiar Dens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
