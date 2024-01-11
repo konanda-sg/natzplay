@@ -3,64 +3,6 @@ HANYA UNTUK PEMAKAIAN PRIBADI SAJA.
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 1
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 2
-https://cdn08jtedge.indihometv.com/dassdvr/134/sctv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 3
-https://cdn08jtedge.indihometv.com/dassdvr/134/indosiar/manifest.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 4
-https://cdn08jtedge.indihometv.com/dassdvr/134/nettv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 5
-https://cdn08jtedge.indihometv.com/dassdvr/134/net/manifest.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 6
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 7
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 9
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 10
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 11
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 12
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 13
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 14
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 15
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 16
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 17
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 18
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 19
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="TEST",TEST 20
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ===== LIVE EVENT =====
 
 #EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="LIVE EVENT",Live EPL 1
@@ -872,6 +814,19 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/spacetoon.png" group-title="Natz Kids",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/mentaritv.png" group-title="Natz Kids",Mentari TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/duniaanak.png" group-title="Natz Kids",Dunia Anak
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/horee.png" group-title="Natz Kids",Horee
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
 ===== Natz Documentary =====
 
