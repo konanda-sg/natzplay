@@ -592,7 +592,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/mycinemaasia.png" group-title="Natz Movies",My Cinema Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d7963696e656d616173696130303030:edef8ba979d64acea3c827dcd51d21ed
-https://cdn08jtedge.indihometv.com/dassdvr/134/mycinemaasia/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/bioskop.png" group-title="Natz Movies",Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
