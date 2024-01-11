@@ -818,7 +818,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
 
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cinemaworld" group-title="Natz Movies",Cinema World
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cinemaworld.png" group-title="Natz Movies",Cinema World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
@@ -891,7 +891,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 #EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/curiosity.png" group-title="Natz Doc",Curiosity Channel
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/discoveriasia.png" group-title="Natz Doc",Discovery Asia
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/discoveryasia.png" group-title="Natz Doc",Discovery Asia
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/history.png" group-title="Natz Doc",History HD
