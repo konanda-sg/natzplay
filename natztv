@@ -397,6 +397,11 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/nba.png" group-title="Sport Indo",NBA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+
 ===== Natz Indo =====
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/vtv.png" group-title="Natz Indo",VTV Oxygen
