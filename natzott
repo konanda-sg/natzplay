@@ -3,6 +3,34 @@ HANYA UNTUK PEMAKAIAN PRIBADI SAJA.
 
 
 
+#EXTINF:-1 tvg-logo="127.0.0.1:443" group-title="TEST",TEST 1
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=614b55593846676b4f42443249457759:78776537304c574f4b4f6656526b5662
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ===== LIVE EVENT =====
 
 #EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epllive.png" group-title="LIVE EVENT",Live EPL 1
