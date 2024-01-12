@@ -716,7 +716,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65454aafd940521074e
 #KODIPROP:inputstream.adaptive.license_key=c8e6741739435645b9c3751fafb1d8e9:62c7595bf8aac22a868759a8a909caf3
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c5c42f88e44305724857458_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018147X0-landscape.jpg" Transformers: Age Of Extinction (2014)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018147X0-landscape.jpg",Transformers: Age Of Extinction (2014)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a82e41adaa05375816b126d22a3a3f9f:253d2a3d07b45f602a3040c506073ee6
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bb0d4d940521074bb23e3_hbovodhd/dash0/IDN_DOLBY_index.mpd
