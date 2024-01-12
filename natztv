@@ -706,7 +706,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #KODIPROP:inputstream.adaptive.license_key=a7244ed7a5678d52130672c4b3cf514e:342e55749e9ef5b57c9371fc4c008132
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fee5add940521074e10087_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041163X0-landscape.jpg",Transformers: Rise Of The Beasts (2023)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041163X0-landscape.jpg",Transformers: Rise of The Beasts (2023)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=08a2cb77aee4f2ac04ecd63960968ff5:53297eef65dfb04b4efce81dfbafb850
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65454aafd940521074e79d0c_hbovodhd/dash0/IDN_DOLBY_index.mpd
@@ -716,17 +716,17 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65454aafd940521074e
 #KODIPROP:inputstream.adaptive.license_key=c8e6741739435645b9c3751fafb1d8e9:62c7595bf8aac22a868759a8a909caf3
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c5c42f88e44305724857458_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018147X0-landscape.jpg",Transformers: Age Of-Extinction (2014)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018147X0-landscape.jpg",Transformers: Age of Extinction (2014)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a82e41adaa05375816b126d22a3a3f9f:253d2a3d07b45f602a3040c506073ee6
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bb0d4d940521074bb23e3_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/013685X0-landscape.jpg",Transformers: Dark Of The Moon (2011)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/013685X0-landscape.jpg",Transformers: Dark of The Moon (2011)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=953b9bbd930152608b53e776bb0bdfca:309ee01b34832485455c1f1961b2afc4
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fa0c63ae366782ad9a573_hbovodhd/dash0/IDN_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/010422X0-landscape.jpg",Transformers: Revenge Of The Fallen (2009)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/010422X0-landscape.jpg",Transformers: Revenge of The Fallen (2009)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=48572c98b66656d0840575b698c49b34:e862f30f6ff36d4bcafd66a71945662e
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7f8fb33ae366782ad9a3b8_hbovodhd/dash0/IDN_index.mpd
