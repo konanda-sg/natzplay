@@ -701,7 +701,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 
 ===== Natz VOD =====
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-keyart.jpg",Meg 2: The Trench (2023)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-landscape.jpg",Meg 2: The Trench (2023)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7244ed7a5678d52130672c4b3cf514e:342e55749e9ef5b57c9371fc4c008132
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fee5add940521074e10087_hbovodhd/dash0/IDN_DOLBY_index.mpd
@@ -756,67 +756,67 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d792d940521074b
 #KODIPROP:inputstream.adaptive.license_key=efff8affd30a942825a51d7a2e62c0db:c8fed1ea7320b8160386d9a0f8948d94
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d5ffd940521074b74b4d_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040975X0-keyart.jpg",The Flash (2023)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040975X0-landscape.jpg",The Flash (2023)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3828dfa474ecbb86ac6e3a9b370abdde:05f5c24805c2fab927d96575bdc20237
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c3794dd940521074db6e41_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040334X0-keyart.jpg",Reality (2023)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040334X0-landscape.jpg",Reality (2023)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b181fb3df6f5577055086173921b597:98c1ea4a4b2d95116eb627df374033fe
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/646fee3ed940521074d39a27_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040442X0-keyart.jpg",Shazam! Fury Of The Gods (2023)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040442X0-landscape.jpg",Shazam! Fury Of The Gods (2023)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=170bb91139d6de563658bb4902db9492:fdbd71bb5164009ba1f924bb91bbc521
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64532a79d940521074d0e71b_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040437X1-keyart.jpg",Babylon (2022)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040437X1-landscape.jpg",Babylon (2022)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dc6d1e91bc36abd53dd21f9fce3fa25:452a8841eedbc4ac17597fb7010f79fd
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa69ead940521074d911a6_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040413X0-keyart.jpg",Armageddon Time (2022)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040413X0-landscape.jpg",Armageddon Time (2022)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cd8ae4e2c4db5317cd5e7ebeeb4305a9:f5ce926a8a7c58deb5f60a5a83e0de5a
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbb2b5d940521074dc325f_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040410X0-keyart.jpg",Halloween Ends (2022)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040410X0-landscape.jpg",Halloween Ends (2022)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6792e70a0cd1f8a41631484e5081c709:7874451657314d0d6213dadd4532d58d
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa5bfed940521074d9103c_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040917X0-keyart.jpg",The Infernal Machine (2022)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040917X0-landscape.jpg",The Infernal Machine (2022)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=083bccd9f40b24b93e07f734c588d1bb:128eef59a0086cec9fc2ccfd8bec942a
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/650e64e2d940521074e2757e_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039484X0-keyart.jpg",Beast (2022)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039484X0-landscape.jpg",Beast (2022)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39148205b8307db4234520b7c85933d8:a7ec4d9cb1bca394a68d249aacc75c94
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c27fd940521074d12585_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039467X0-keyart.jpg",Fall (2022)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039467X0-landscape.jpg",Fall (2022)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76eebfcc9eca8d8f88068c9be41eb8f7:aa6833d3240176007736f9b06fc9a7de
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c7a6d940521074d12607_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037974X0-keyart.jpg",Top Gun: Maverick (2022)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037974X0-landscape.jpg",Top Gun: Maverick (2022)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92c576390921fdd3968eef7675385739:210391610b005bd86b3188e3f41dcb05
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6380a3b1d940521074bd1ddc_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039379X0-keyart.jpg",Memory (2022)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039379X0-landscape.jpg",Memory (2022)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb17bec7244f2a03e5644780af88486f:7695f84bc5054965a5947cd44c480f4a
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/640687a2d940521074c9b9f1_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037588X0-keyart.jpg",Ambulance (2022)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037588X0-landscape.jpg",Ambulance (2022)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a26313e43f2b36e64111bd5f20f82a8b:4c2fe8e829d418bfd7d4ded2bbc4d7a5
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63760ba3d940521074bc1e52_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036820X0-keyart.jpg",The Contractor (2022)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036820X0-landscape.jpg",The Contractor (2022)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6fcce32003fcff7817016652d394aad:a3c412378aff130b934ab0fb610efa81
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636be706d940521074bb2971_hbovodhd/dash0/IDN_DOLBY_index.mpd
@@ -826,22 +826,22 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636be706d940521074b
 #KODIPROP:inputstream.adaptive.license_key=9441af1e52c27c4f4759b6b3754913de:4e5db648fc9d0eeade20b6135faeee0d
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6317464bd940521074b33602_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037907X0-keyart.jpg",The Lost City (2022)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037907X0-landscape.jpg",The Lost City (2022)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcf0caed4f1eb108a28a9ed65e49ad7a:7fc280a8fb1e02a22533b515d8f3c35b
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342984fd940521074b74505_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040209X0-keyart.jpg",The Last 10 Years (2022)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040209X0-landscape.jpg",The Last 10 Years (2022)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=560e1449ca4923be37b36b41c812b38d:d1399c24cbb401413da4ff1a87de5045
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6417c77ad940521074cb56d9_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038455X0-keyart.jpg",Moonfall (2022)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038455X0-landscape.jpg",Moonfall (2022)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53a4912f830b3c1611164d30c7b1a22d:12be4137133533126dce4e2e4a97d539
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636b3f92d940521074bb181c_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037903X0-keyart.jpg",Fortress (2021)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037903X0-landscape.jpg",Fortress (2021)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d74381ba0d51aac55888bfe760bf5c60:962d9c72bb5da610643e41928e371e5d
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63174365d940521074b335ba_hbovodhd/dash0/IDN_DOLBY_index.mpd
@@ -851,12 +851,12 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63174365d940521074b
 #KODIPROP:inputstream.adaptive.license_key=3d9b0ba5cee245178486faf5addebd6c:e331c576eafb88cbed3944455cd85bd7
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61f3c993d94052107497cbfc_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021345X0-keyart.jpg",Dunkirk (2017)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021345X0-landscape.jpg",Dunkirk (2017)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37b3d4a179f75358966375e001373e95:f78a22c6698f197333d7dba256671573
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/617769e1fbbcc21f45cc0e05_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037501X0-keyart.jpg",Train To Busan (2016)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037501X0-landscape.jpg",Train To Busan (2016)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6e897948118bf18c4286fea17e9b6f3:f31f885bdf7aae6378bff0eb8c404de4
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbb42ed940521074dc3286_hbovodhd/dash0/IDN_DOLBY_index.mpd
@@ -871,17 +871,17 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bcb5fd940521074b
 #KODIPROP:inputstream.adaptive.license_key=3d98e6c01af8c7466868cb9495af447d:c3475482a0810a37889477939c476d41
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6512263ed940521074e2ce31_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018544X0-keyart.jpg",Blackhat (2015)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018544X0-landscape.jpg",Blackhat (2015)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44f014707e618513121e91c8bbf5b823:08192e1c9e189e92b498e6f88c652b56
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/638083b2d940521074bd1aa7_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018495X0-keyart.jpg",Into The Storm (2014)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018495X0-landscape.jpg",Into The Storm (2014)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f309f4647761a8f6825d594a3bf97f27:02b764ff346661751603d653231194ed
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62942f67d940521074a6e1b1_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017159X0-keyart.jpg",About Time (2013)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017159X0-landscape.jpg",About Time (2013)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b8823c5b782d604b33087c4cdbdfb28:ebd7975bd5acba76939c6f28d129a820
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/638c35f5d940521074be35fe_hbovodhd/dash0/IDN_DOLBY_index.mpd
@@ -925,3 +925,143 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e5cbba93a736626cec
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aefea04658b950adabf360944afbfda1:c77f93ba8ebbee46ed61236578726681
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7f70933ae366782ad9a085_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/012694X0-landscape.jpg",2 Fast 2 Furious (2003)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d8a385d1185571d8e497388939173df:9c6fa94b8817ba723971589ae415d358
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fab803ae366782ad9a688_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/010046X0-landscape.jpg",17 Again (2009)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2c9bd758edb5ec6b33b8b2f1fafb4a9:510dd288b0a908a056dc49b26a4213f9
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fa3c6da6d048943f768736d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016006X0-landscape.jpg",Argo (2012)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1f774eb98c158c2b828337323751cff:0be32c7a76e588b456cc7cc97562086f
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5febe4566d048943f76f16b7_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023075X0-landscape.jpg",Aquaman (2018)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=168f91ebd48457969146c998154c67f5:a48463bb600178a9bffb367f8300c666
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da9c19bcbea8a6a4ef2035c_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018021X0-landscape.jpg",Blended (2014)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e940dcd81f158aab24d77f6014b898c:d88d6541b6f96e2e17b10898dbf3b4db
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7768a63ae366782ad8d982_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/012831X0-landscape.jpg",Blood Diamond (2006)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1606f6e5e755647b38502be15f2dcad:0cdff50585dcd5c6dff2a20eba449722
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c691a618e4430572486afe4_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017270X0-landscape.jpg",Cast Away (2000)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=983a0203cd7a56919f928d32656fc4b1:0a3b4891cd5564e30aca774f174d3e11
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d80d8d0478edf47921f4933_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020472X0-landscape.jpg",Crank (2006)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3f6f10753ed526cad9bda130efd9149:8720a24b90c271a6dcb7fe187281ff47
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63e46addd940521074c67ef9_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/013355X0-landscape.jpg",Daylight (1996)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5cb2db901005bdfa8673e028c6c939c:4ee9aa8af1249851fe8084d816cab625
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60bb0b72f80130448b1c0632_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017557X0-landscape.jpg",Gravity (2013)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac17f9b0c37563a9040d54ce88dd8aa:656564cdf96959c9755d593544b81242
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fe3f3d56d048943f76e5c90_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009278X0-landscape.jpg",I Am Legend (2007)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d11695917bd0c2919f84784aedd681:f6860bcb3d8a257221489de9d1374750
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6303bdc2d940521074b160b8_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/012751X0-landscape.jpg",Inception (2010)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90ed6fbe8de353a5942d01df948705f6:cede1a468efa9bbebe50e20053cef20d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fbdfdd66d048943f76adf69_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018890X0-landscape.jpg",Interstellar (2014)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acc84531c13d2bb33fa293f3ba767109:140c67b748435400076ced382c9673ef
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6544fab0d940521074e794f9_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023711X0-landscape.jpg",Joker (2019)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5566a742312752b2ab605777a3bb27bc:5419f52647b2a8403b17587f1fbe994a
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f1e65956d048943f75c09e2_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034825X0-landscape.jpg",Kung Fu Dunk (2008)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e372a768cf855ffd60216129628ac78:d3be605f781a2a63afba02f98203b0e7
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63803119d940521074bd1247_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020934X0-landscape.jpg",Man On Fire (2004)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb2355938a2e517db5fd343b88c6265a:3f581e61741098056fe04b0c0bbf4927
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e0d9290cbea8a6a4efb849d_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041085X0-landscape.jpg",Meet Joe Black (1998)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26254d93bad7d4240c2d26d0d27ff986:21f9da62ccdf162b764e7ff16d10ac32
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65452d22d940521074e79a15_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022443X0-landscape.jpg",Mission Impossible : Fallout (2018)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d983a95a76053ccb2ef95b4c283899d:6178286bd940b7099f8ccc6e31f16300
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8040e03ae366782ad9b50a_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019147X0-landscape.jpg",Mission Impossible : Rogue Nation (2015)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4091094a9b80073d14d1c46308ae35d:9ffea660fecfe8b78bd06d54378c4ccf
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6431fd31d940521074cdc94c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014191X0-landscape.jpg",Mission Impossible : Ghost Protocol (2011)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=194dd56171ff5272ad3c5ca00ccab2f2:35846bacd37c502775b986df7da0b940
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da5936ccbea8a6a4ef19db9_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016957X0-landscape.jpg",Mission Impossible 3 (2006) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16f21fe7517e593ca7120d7002b9d5d9:7840fb6b501cbc40590eab3fdb382ab5
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9dae3fcbea8a6a4ef0dd7f_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016706X0-landscape.jpg",Mission Impossible 2 (2000)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4367ef46cbd65342a1cdb2a4aad55e36:ecb020421f9f92128024a705a857de81
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9db2ffcbea8a6a4ef0de04_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009288X0-landscape.jpg",Mission Impossible (1996)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26a2610e99c05b9e89ee5cb18c8f7b0a:b3a464bfb18b5f7470f6e10d6e280deb
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da594c7cbea8a6a4ef19ddc_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/011474X0-landscape.jpg",Sherlock Holmes (2009)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd19e636af3a46f984e78ce67c0ade3f:e773760ce24563a01840eae6f6992ba5
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62010d10d94052107499087d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014503X0-landscape.jpg",Sherlock Holmes: A Game Of Shadows (2009)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d43f4226520496aaae3b3dd684d7508:ce4184b6d0d371ae5ac4d3c92910a143
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/620109f9d940521074990827_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016021X0-landscape.jpg",Shooter (2007)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9641b402384851cfb22a2d5eb89525a8:63a9d6bdc8af4a3b22fd8390ae2f02f8
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63db5adad940521074c5a65d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/012821X0-landscape.jpg",The Core (2003)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=601159349c85e3ec66fd23e847e35167:4d9271f2d8a33178f2610d5a6afb87fd
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63844df8d940521074bd7635_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009466X0-landscape.jpg",The Curious Case Of Benjamin Button (2008)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87afeb58d5de53409fe27153ae5232a8:19665c0b84d4be8618ea0e61002f4a39
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f34a1ed6d048943f75e284c_hbovodhd/dash0/IDN_index.mpd
