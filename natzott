@@ -4,10 +4,13 @@ HANYA UNTUK PEMAKAIAN PRIBADI SAJA.
 
 
 
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="TEST",Indosiar (Cubmu)
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8
+https://cubmu.ceriatv.workers.dev/
 
-
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cinemax.png" group-title="TEST",Cinemax Cubmu
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://auto.nyolong-lu-y.workers.dev
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
 
