@@ -706,6 +706,56 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #KODIPROP:inputstream.adaptive.license_key=a7244ed7a5678d52130672c4b3cf514e:342e55749e9ef5b57c9371fc4c008132
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fee5add940521074e10087_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041163X0-landscape.jpg",Transformers: Rise Of The Beasts (2023)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08a2cb77aee4f2ac04ecd63960968ff5:53297eef65dfb04b4efce81dfbafb850
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65454aafd940521074e79d0c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020839X0-landscape.jpg",Transformers: The Last Knight (2017)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8e6741739435645b9c3751fafb1d8e9:62c7595bf8aac22a868759a8a909caf3
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c5c42f88e44305724857458_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018147X0-landscape.jpg" Transformers: Age Of Extinction (2014)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a82e41adaa05375816b126d22a3a3f9f:253d2a3d07b45f602a3040c506073ee6
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bb0d4d940521074bb23e3_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/013685X0-landscape.jpg",Transformers: Dark Of The Moon (2011)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=953b9bbd930152608b53e776bb0bdfca:309ee01b34832485455c1f1961b2afc4
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fa0c63ae366782ad9a573_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/010422X0-landscape.jpg",Transformers: Revenge Of The Fallen (2009)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=48572c98b66656d0840575b698c49b34:e862f30f6ff36d4bcafd66a71945662e
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7f8fb33ae366782ad9a3b8_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009275X0-landscape.jpg",Transformers (2007)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eff6ae9966b70805f8d77bde06c6d1c5:e780435d4d1f0f0ddd9bc3e9559a9ce0
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bf979d940521074bb2b50_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041082X0-landscape.jpg",Cocaine Bear (2023)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02f26648b3f951a7fdef85f737299e6a:aea7f4643c7b98d76fcae03e198dec1b
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65452a2cd940521074e799ca_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038580X0-landscape.jpg",TLOTR: The Return Of The King (2003)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53e5693190ddcb5200025459868ac054:89bd9064bde0396419b720b7323af0bf
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342eeadd940521074b74dcc_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038088X0-landscape.jpg",TLOTR: The Two Towers (2002)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11bbdd6fbc637f2a35469e348ef7178d:ff9afd5181e4441ee624988567479372
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d792d940521074b74b76_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038087X0-portrait.jpg",TLOTR: The Fellowship Of The Ring (2001)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efff8affd30a942825a51d7a2e62c0db:c8fed1ea7320b8160386d9a0f8948d94
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d5ffd940521074b74b4d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
 #EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040975X0-keyart.jpg",The Flash (2023)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3828dfa474ecbb86ac6e3a9b370abdde:05f5c24805c2fab927d96575bdc20237
