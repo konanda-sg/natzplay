@@ -751,7 +751,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342eeadd940521074b
 #KODIPROP:inputstream.adaptive.license_key=11bbdd6fbc637f2a35469e348ef7178d:ff9afd5181e4441ee624988567479372
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d792d940521074b74b76_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038087X0-portrait.jpg",TLOTR: The Fellowship Of The Ring (2001)
+#EXTINF:-1 group-title="Natz VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038087X0-landscape.jpg",TLOTR: The Fellowship Of The Ring (2001)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efff8affd30a942825a51d7a2e62c0db:c8fed1ea7320b8160386d9a0f8948d94
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d5ffd940521074b74b4d_hbovodhd/dash0/IDN_DOLBY_index.mpd
