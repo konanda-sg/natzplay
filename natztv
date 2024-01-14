@@ -34,12 +34,6 @@ https://hls.streambtw.com/live/stream_6.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/live.png" group-title="LIVE EVENT",LIVE EVENT 8
 https://hls.streambtw.com/live/stream_8.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/live.png" group-title="LIVE EVENT",LIVE EVENT 9
-https://hls.streambtw.com/live/stream_9.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/live.png" group-title="LIVE EVENT",LIVE EVENT 10
-https://hls.streambtw.com/live/stream_10.m3u8
-
 ===== Sport Mix =====
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epltv.png" group-title="Sport Mix",EPL TV 1
