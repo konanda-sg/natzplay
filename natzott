@@ -33,7 +33,6 @@ https://hls.streambtw.com/live/stream_8.m3u8
 
 ===== Sport Mix =====
 
-
 #EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epltv.png" group-title="Sport Mix",EPL TV 1
 #EXTVLCOPT:http-referrer=https://www.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -146,18 +145,6 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
 https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
 
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/astrosport1.png" group-title="Sport Mix",Astro SuperSport 1
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1722
-
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/astrosport2.png" group-title="Sport Mix",Astro SuperSport 2
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1721
-
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/astrosport3.png" group-title="Sport Mix",Astro SuperSport 3
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1720
-
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/astrosport4.png" group-title="Sport Mix",Astro SuperSport 4
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1719
-
 #EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tnt1.png" group-title="Sport Mix",TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005888b503e9ca2bc49d35ba00df2d9:74c2df857d2fab7bac13a627db6424fe
@@ -178,6 +165,34 @@ https://linear012-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 #KODIPROP:inputstream.adaptive.license_key=00052f1647b6acf2af6c38fd44558e42:89c9b65e51a82cbd338bec1ecce4d05d
 https://linear012-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tntsport4)/manifest_sd.mpd
 
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tnt1.png" group-title="Sport Mix",TNT Sports 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
+http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tnt2.png" group-title="Sport Mix",TNT Sports 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00034ab4ec2fbf01848ac5157a314d43:92d1b98a91f3f39285e4b6315608b3ee
+http://linear037-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tnt3.png" group-title="Sport Mix",TNT Sports 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005d81e9c8dd58b72ebd87d54a78009:01924a06ecbe6296e756e35acdd7c30e
+http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt3sport50)/manifest_hd.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tnt4.png" group-title="Sport Mix",TNT Sports 4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00032335f1860c8cf0f5e4510c9619d9:fa0830e62a308d00d09a916df66ccd1a
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt4sport50)/manifest_hd.mpd
+
 #EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/skyfootball.png" group-title="Sport Mix",Sky Football
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00051ec4671fcd3e8095f1e6118d9052:50304047eb0a462a4ba50add2596b215
@@ -188,16 +203,10 @@ http://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/ch
 #KODIPROP:inputstream.adaptive.license_key=0003c16cd15b85b5fb9e849c67e7a766:7865ecc481cb767dd4051bc5a5e38095
 http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsmainevent50)/manifest_mob.mpd
 
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/skyepl.png" group-title="Sport Mix",Sky EPL 1
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/skyepl.png" group-title="Sport Mix",Sky Premier League
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005588f470d6ffad9dfb866cae14137:47242613834db3b6e3e5bb76a999a26b
 http://linear010-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportspremierleague50)/manifest_mob.mpd
-
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/skyepl.png" group-title="Sport Mix",Sky EPL 2
-http://163.172.55.74:8080/Baker22/HXdW4myavCMN/1886
-
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/skyepl.png" group-title="Sport Mix",Sky EPL 3
-http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/2877
 
 #EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/bein1.png" group-title="Sport Mix",BeIN Sports 1 AIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -306,21 +315,6 @@ https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sony1.png" group-title="Sport Mix",Sony TEN 1 HD
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sony2.png" group-title="Sport Mix",Sony TEN 2 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sony3.png" group-title="Sport Mix",Sony TEN 3 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sony4.png" group-title="Sport Mix",Sony TEN 4 HD
-https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sony5.png" group-title="Sport Mix",Sony TEN 5 HD
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-
 #EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/unbeaten.png" group-title="Sport Mix",Unbeaten TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
@@ -374,6 +368,27 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
 
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/arena1.png" group-title="Sport Mix",Arena Premium 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/arena2.png" group-title="Sport Mix",Arena Premium 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/arena3.png" group-title="Sport Mix",Arena Premium 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
 #EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/vsport1.png" group-title="Sport Mix",V Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45608e64154b156f6884926c87f6f3ec:c66a1ff7638d0ce1f729f557221de5d7
@@ -416,6 +431,47 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&e
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tv2sport1.png" group-title="Sport Mix",TV2 Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c020ccd5e9dc7b0d40e0da996e3d9c7:f91af4dab54e9c027d21f4d78abb7a75
+https://rikstv-live2.telenorcdn.net/rikstv/1468/2/dash/TV2_Sport_1/manifest.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tv2sport2.png" group-title="Sport Mix",TV2 Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6932f68ee603c69b1bbeff9cb11d23fb:ad518d9d047e077654ab073d643cd270
+https://rikstv-live2.telenorcdn.net/rikstv/1469/2/dash/TV2_Sport_2/manifest.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/usa.png" group-title="Sport Mix",USA Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/dazncombat.png" group-title="Sport Mix",DAZN Combat
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/daznfast.png" group-title="Sport Mix",DAZN Fast+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/daznrise.png" group-title="Sport Mix",DAZN Rise
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/daznwfootball.png" group-title="Sport Mix",DAZN Women's Football
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
 
 #EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/pluto.png" group-title="Sport Mix",Pluto TV 1
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
