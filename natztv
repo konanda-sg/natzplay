@@ -31,9 +31,6 @@ https://hls.streambtw.com/live/stream_6.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/live.png" group-title="LIVE EVENT",LIVE EVENT 7
 https://hls.streambtw.com/live/stream_8.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/live.png" group-title="LIVE EVENT", CCTV Bunderan Mangga
-https://stream.indramayukab.go.id/memfs/1f4a2083-0cc2-4313-a953-39a592d97a08_output_0.m3u8
-
 ===== Sport Mix =====
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/epltv.png" group-title="Sport Mix",EPL TV 1
