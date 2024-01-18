@@ -612,263 +612,194 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 
 
 =========================
-======= GOLDEN TV =======
+====== TV NASIONAL ======
 =========================
 
 
 #EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png"
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/rcti.png" group-title="GOLDEN TV",RCTI
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0RSmnYTZIdlZL6G1qXXLgjk/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/mnc.png" group-title="GOLDEN TV",MNC TV
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0cncWckBDzSwrH4DkOvZcfY/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/gtv.png" group-title="GOLDEN TV",GTV
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0eNuuAlV5bEzh0kJVOwEloQ/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/inews.png" group-title="GOLDEN TV",iNews
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0Rt5kcFvbL84QTTFRVAiTiM/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/trans7.png" group-title="GOLDEN TV",Trans 7
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0cDPqXwQ0UXtfLiW-mhPqfE/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/transtv.png" group-title="GOLDEN TV",Trans TV
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0TFtA7A80tS413PQXeBj7c8/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="GOLDEN TV",Indosiar
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0ad-gRwSoYHeWk-dVjj4T2U/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="GOLDEN TV",SCTV
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0fKwWO27fxscbLRCiQNQl_8/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/net.png" group-title="GOLDEN TV",NET TV
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0Saug_EuA5IeHsRf5gvxTnA/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/kompas.png" group-title="GOLDEN TV",Kompas tv
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0byLp5J804E5h9Qf1XAXd7U/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tvri.png" group-title="GOLDEN TV",TVRI
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0YRWTVsCpNYjHmjVcegMoj4/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/antv.png" group-title="GOLDEN TV",ANTV
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0bdzEhSTDAyQTMxBMcxUqH4/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tvone.png" group-title="GOLDEN TV",TV ONE
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0ZRJc502C2xOsDEPWW5fz0E/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/metro.png" group-title="GOLDEN TV",METRO TV
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0RlmatkeZTKjp9Vlad-MLQY/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="GOLDEN TV",Moji
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0fLALOQrPBRiTKrgNr_m6u0/ts
-
-
-=========================
-======= OXYGEN ID =======
-=========================
-
-
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png"
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/vtv.png" group-title="OXYGEN ID",Viva TV Oxygen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://playlist-coffee.my.id/oxy/vtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="OXYGEN ID", SCTV Oxygen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://playlist-coffee.my.id/oxy/sctv.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="OXYGEN ID",Indosiar Oxygen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://playlist-coffee.my.id/oxy/indosiar.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="OXYGEN ID",Moji Oxygen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://playlist-coffee.my.id/oxy/moji.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tvri.png" group-title="OXYGEN ID",TVRI Oxygen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://playlist-coffee.my.id/oxy/tvri.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tvone.png" group-title="OXYGEN ID",TVOne Oxygen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://playlist-coffee.my.id/oxy/tvone.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/transtv.png" group-title="OXYGEN ID",TRANS TV Oxygen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://playlist-coffee.my.id/oxy/transtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/trans7.png" group-title="OXYGEN ID",TRANS 7 Oxygen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://playlist-coffee.my.id/oxy/trans7.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/metro.png" group-title="OXYGEN ID",Metro TV Oxygen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://playlist-coffee.my.id/oxy/metrotv.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/kompas.png" group-title="OXYGEN ID",Kompas TV Oxygen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://playlist-coffee.my.id/oxy/kompastv.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/antv.png" group-title="OXYGEN ID",ANTV Oxygen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://playlist-coffee.my.id/oxy/antv.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/inews.png" group-title="OXYGEN ID",iNews Oxygen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://playlist-coffee.my.id/oxy/inews.m3u8
-
-
-=========================
-===== TV NASIONAL 1 =====
-=========================
-
-
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png"
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="TV NASIONAL 1",Moji Indihome
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="TV NASIONAL",Moji Indihome
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="TV NASIONAL 1", Indosiar Dens
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="TV NASIONAL", Indosiar Dens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TV NASIONAL 1", SCTV Dens
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TV NASIONAL", SCTV Dens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="TV NASIONAL 1", Moji Dens
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="TV NASIONAL", Moji Dens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cnn.png" group-title="TV NASIONAL 1",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cnn.png" group-title="TV NASIONAL",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cnbc.png" group-title="TV NASIONAL 1",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cnbc.png" group-title="TV NASIONAL",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/metro.png" group-title="TV NASIONAL 1",Metro TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/metro.png" group-title="TV NASIONAL",Metro TV
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/transtv.png" group-title="TV NASIONAL 1",Trans TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/transtv.png" group-title="TV NASIONAL",Trans TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/trans7.png" group-title="TV NASIONAL 1",Trans 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/trans7.png" group-title="TV NASIONAL",Trans 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/rcti.png" group-title="TV NASIONAL 1",RCTI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/rcti.png" group-title="TV NASIONAL",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/gtv.png" group-title="TV NASIONAL 1",GTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/gtv.png" group-title="TV NASIONAL",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/mnc.png" group-title="TV NASIONAL 1",MNC TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/mnc.png" group-title="TV NASIONAL",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/inews.png" group-title="TV NASIONAL 1",iNews
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/inews.png" group-title="TV NASIONAL",iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/antv.png" group-title="TV NASIONAL 1",ANTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/antv.png" group-title="TV NASIONAL",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/net.png" group-title="TV NASIONAL 1",NET TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/net.png" group-title="TV NASIONAL",NET TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tvone.png" group-title="TV NASIONAL 1",TVOne
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tvone.png" group-title="TV NASIONAL",TVOne
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/kompas.png" group-title="TV NASIONAL 1",Kompas TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/kompas.png" group-title="TV NASIONAL",Kompas TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tvri.png" group-title="TV NASIONAL 1",TVRI Nasional
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tvri.png" group-title="TV NASIONAL",TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
-
-=========================
-===== TV NASIONAL 2 =====
-=========================
-
-
-#EXTINF:-1 group-logo="https://i.ibb.co/3r6Wfdh/Natz.png"
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/trans7.png" group-title="TV NASIONAL 2",TRANS 7 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/trans7.png" group-title="TV NASIONAL",TRANS 7 HD
 http://103.113.116.150:25461/mtm1/12345/1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/transtv.png" group-title="TV NASIONAL 2",TRANS TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/transtv.png" group-title="TV NASIONAL",TRANS TV HD
 http://103.113.116.150:25461/mtm1/12345/2
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="TV NASIONAL 2",INDOSIAR HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="TV NASIONAL",INDOSIAR HD
 http://103.113.116.150:25461/mtm1/12345/3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TV NASIONAL 2",SCTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TV NASIONAL",SCTV HD
 http://103.113.116.150:25461/mtm1/12345/4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/rcti.png" group-title="TV NASIONAL 2",RCTI HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/rcti.png" group-title="TV NASIONAL",RCTI HD
 http://103.113.116.150:25461/mtm1/12345/5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/mnc.png" group-title="TV NASIONAL 2",MNC TV HD
 http://103.113.116.150:25461/mtm1/12345/6
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/gtv.png" group-title="TV NASIONAL 2",GTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/gtv.png" group-title="TV NASIONAL",GTV HD
 http://103.113.116.150:25461/mtm1/12345/7
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/inews.png" group-title="TV NASIONAL 2",iNEWS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/inews.png" group-title="TV NASIONAL",iNEWS HD
 http://103.113.116.150:25461/mtm1/12345/8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tvone.png" group-title="TV NASIONAL 2",TV ONE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tvone.png" group-title="TV NASIONAL",TV ONE HD
 http://103.113.116.150:25461/mtm1/12345/9
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/antv.png" group-title="TV NASIONAL 2",ANTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/antv.png" group-title="TV NASIONAL",ANTV HD
 http://103.113.116.150:25461/mtm1/12345/10
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/net.png" group-title="TV NASIONAL 2",NET TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/net.png" group-title="TV NASIONAL",NET TV HD
 http://103.113.116.150:25461/mtm1/12345/11
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/metro.png" group-title="TV NASIONAL 2",METRO TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/metro.png" group-title="TV NASIONAL",METRO TV HD
 http://103.113.116.150:25461/mtm1/12345/12
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/kompas.png" group-title="TV NASIONAL 2",KOMPAS TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/kompas.png" group-title="TV NASIONAL",KOMPAS TV HD
 http://103.113.116.150:25461/mtm1/12345/13
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="TV NASIONAL 2",MOJI HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="TV NASIONAL",MOJI HD
 http://103.113.116.150:25461/mtm1/12345/15
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/vtv.png" group-title="TV NASIONAL",Viva TV Oxygen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://playlist-coffee.my.id/oxy/vtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TV NASIONAL", SCTV Oxygen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://playlist-coffee.my.id/oxy/sctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="TV NASIONAL",Indosiar Oxygen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://playlist-coffee.my.id/oxy/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="TV NASIONAL",Moji Oxygen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://playlist-coffee.my.id/oxy/moji.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tvri.png" group-title="TV NASIONAL",TVRI Oxygen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://playlist-coffee.my.id/oxy/tvri.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tvone.png" group-title="TV NASIONAL",TVOne Oxygen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://playlist-coffee.my.id/oxy/tvone.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/transtv.png" group-title="TV NASIONAL",TRANS TV Oxygen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://playlist-coffee.my.id/oxy/transtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/trans7.png" group-title="TV NASIONAL",TRANS 7 Oxygen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://playlist-coffee.my.id/oxy/trans7.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/metro.png" group-title="TV NASIONAL",Metro TV Oxygen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://playlist-coffee.my.id/oxy/metrotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/kompas.png" group-title="TV NASIONAL",Kompas TV Oxygen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://playlist-coffee.my.id/oxy/kompastv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/antv.png" group-title="TV NASIONAL",ANTV Oxygen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://playlist-coffee.my.id/oxy/antv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/inews.png" group-title="TV NASIONAL",iNews Oxygen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://playlist-coffee.my.id/oxy/inews.m3u8
 
 
 =========================
@@ -1003,21 +934,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_key=https://conn.livetvgo.my.id/cumbu/
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cinemax.png" group-title="NATZ MOVIES",Cinemax Golden
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0Rl-iljkAuju6PSxbu1Dlps/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbo.png" group-title="NATZ MOVIES",HBO Golden
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0VX_V_wOC8EOIXlLSrNlxIc/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbohits.png" group-title="NATZ MOVIES",HBO Hits Golden
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0TKvDECNQJyNK4kpey9Begs/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbofamily.png" group-title="NATZ MOVIES",HBO Family Golden
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0dmCePA5RTycAcqOS9FA4H4/ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/hbosignature.png" group-title="NATZ MOVIES",HBO Signature Golden
-http://www.goldentv.tech:80/play/h_B7tOaNe2SHYSh1gVEG0XPwymMHpBJzhS2sTeBa93Y/ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/cinemax.png" group-title="NATZ MOVIES",Cinemax 1
 http://tvlive.my.id:25461/ab/ab/424
