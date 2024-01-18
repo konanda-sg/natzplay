@@ -149,59 +149,6 @@ https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/unbeaten.png" group-title="Sport Mix",Unbeaten TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-044/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/play1.png" group-title="Sport Mix",Play Sport 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/play2.png" group-title="Sport Mix",Play Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-052/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/play3.png" group-title="Sport Mix",Play Sport 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-053/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/eleven1.png" group-title="Sport Mix",Eleven Sport 1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/eleven2.png" group-title="Sport Mix",Eleven Sport 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/eleven3.png" group-title="Sport Mix",Eleven Sport 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/eleven4.png" group-title="Sport Mix",Eleven Sport 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-057/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/eleven5.png" group-title="Sport Mix",Eleven Sport 5
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/eleven6.png" group-title="Sport Mix",Eleven Sport 6
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/arena1.png" group-title="Sport Mix",Arena 1 Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -216,21 +163,6 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/vsport1.png" group-title="Sport Mix",V Sport 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45608e64154b156f6884926c87f6f3ec:c66a1ff7638d0ce1f729f557221de5d7
-https://aws-appeartv-cdn.rikstv.no/rikstv/1474/2/dash/Viasport_1/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/vsport2.png" group-title="Sport Mix",V Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae9eb255000c9ea429c5a077ef9211d4:4aeb818921f4d3a553295b02524bb53d
-https://aws-appeartv-cdn.rikstv.no/rikstv/1475/2/dash/Viasport_2/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/vsport3.png" group-title="Sport Mix",V Sport 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c95b184864d5f25f3de9ffbb8b0ec24d:14d6713904b32a72b6859c3316f92cce
-https://aws-appeartv-cdn.rikstv.no/rikstv/1476/2/dash/Viasport_3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/usa.png" group-title="Sport Mix",USA Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
