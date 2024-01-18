@@ -726,7 +726,7 @@ http://103.113.116.150:25461/mtm1/12345/4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/rcti.png" group-title="TV NASIONAL",RCTI HD
 http://103.113.116.150:25461/mtm1/12345/5
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/mnc.png" group-title="TV NASIONAL 2",MNC TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/mnc.png" group-title="TV NASIONAL",MNC TV HD
 http://103.113.116.150:25461/mtm1/12345/6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/gtv.png" group-title="TV NASIONAL",GTV HD
