@@ -444,50 +444,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tvri.png" group-title="TV NASIONAL",TVRI Nasional
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/trans7.png" group-title="TV NASIONAL",TRANS 7 HD
-http://103.113.116.150:25461/mtm1/12345/1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/transtv.png" group-title="TV NASIONAL",TRANS TV HD
-http://103.113.116.150:25461/mtm1/12345/2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/indosiar.png" group-title="TV NASIONAL",INDOSIAR HD
-http://103.113.116.150:25461/mtm1/12345/3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/sctv.png" group-title="TV NASIONAL",SCTV HD
-http://103.113.116.150:25461/mtm1/12345/4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/rcti.png" group-title="TV NASIONAL",RCTI HD
-http://103.113.116.150:25461/mtm1/12345/5
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/mnc.png" group-title="TV NASIONAL",MNC TV HD
-http://103.113.116.150:25461/mtm1/12345/6
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/gtv.png" group-title="TV NASIONAL",GTV HD
-http://103.113.116.150:25461/mtm1/12345/7
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/inews.png" group-title="TV NASIONAL",iNEWS HD
-http://103.113.116.150:25461/mtm1/12345/8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tvone.png" group-title="TV NASIONAL",TV ONE HD
-http://103.113.116.150:25461/mtm1/12345/9
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/antv.png" group-title="TV NASIONAL",ANTV HD
-http://103.113.116.150:25461/mtm1/12345/10
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/net.png" group-title="TV NASIONAL",NET TV HD
-http://103.113.116.150:25461/mtm1/12345/11
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/metro.png" group-title="TV NASIONAL",METRO TV HD
-http://103.113.116.150:25461/mtm1/12345/12
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/kompas.png" group-title="TV NASIONAL",KOMPAS TV HD
-http://103.113.116.150:25461/mtm1/12345/13
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/moji.png" group-title="TV NASIONAL",MOJI HD
-http://103.113.116.150:25461/mtm1/12345/15
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/tvri.png" group-title="TV NASIONAL",TVRI 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/vtv.png" group-title="TV NASIONAL",Viva TV Oxygen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
